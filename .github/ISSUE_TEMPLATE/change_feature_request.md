@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature change request
 about: Suggest an idea for Refined GitHub
 labels: enhancement, under discussion
 
